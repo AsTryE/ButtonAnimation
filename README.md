@@ -4,3 +4,6 @@
  
 ###末尾的打钩的图标效果未实现，直接动画按钮的标题代替,实现效果如下： 
 ![submitAnimaiton](https://github.com/AsTryE/ButtonAnimation/blob/master/submitAnimation.gif)
+
+##对效果进行了简单的封装，支持故事版，简单配置如下： 
+![](https://github.com/AsTryE/ButtonAnimation/blob/master/sm.png)
